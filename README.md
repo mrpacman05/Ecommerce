@@ -2,7 +2,8 @@
 
 ## An E-commerce Store For Glasses
 
-#### - by Saurabh Kumar
+#### - by Ansh Sachdeva 01515603120
+Abhinav 00215603120
 
 ## Demo
 
